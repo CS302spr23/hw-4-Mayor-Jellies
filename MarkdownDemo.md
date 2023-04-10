@@ -25,6 +25,5 @@ System.out.println("hello readme");
 ```
 ---
 
-[profile readme](https://github.com/Mayor-Jellies/Mayor-Jellies/blob/d06606e9a59437cd213834c6f133813c2d2fe187/README.md)
-
+[profile readme](https://github.com/Mayor-Jellies/Mayor-Jellies.git/)
 ![Jonathan](image.jpeg)
